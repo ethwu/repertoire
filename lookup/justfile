@@ -1,0 +1,8 @@
+
+# Build binaries.
+build:
+    pnpm run build
+
+# Run unit tests.
+test:
+    pnpm run test
